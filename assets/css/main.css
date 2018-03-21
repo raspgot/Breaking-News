@@ -1,0 +1,8 @@
+.aligncenter {
+    text-align: center;
+}
+img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

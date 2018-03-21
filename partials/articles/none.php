@@ -1,0 +1,1 @@
+<div class="alert alert-warning">Aucun article n'a été trouvé.</div>
